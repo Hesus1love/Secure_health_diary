@@ -1,0 +1,10 @@
+{
+    "program": "healthy_diary.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp3kXqbFHgp42im7Rtr23EzyWu1fmUFprtm4W7pQmtzotd",
+        "address": "aleo1l67dx7esh6w4ywrcylku0na546pf55g50mdq5pt2xm75j48jkqgszxedzk"
+    },
+    "license": "MIT"
+}

@@ -1,0 +1,11 @@
+// The program input for healthy_diary/src/main.leo
+[add_entry]
+user_address: address = aleo1l67dx7esh6w4ywrcylku0na546pf55g50mdq5pt2xm75j48jkqgszxedzk;
+date: String = String { data0: 20221029u128, data1: 0u128, data2: 0u128, data3: 0u128, data4: 0u128, data5: 0u128, data6: 0u128, data7: 0u128 };
+health_note: String = String { data0: 1234567890123456u128, data1: 1234567890123456u128, data2: 0u128, data3: 0u128, data4: 0u128, data5: 0u128, data6: 0u128, data7: 0u128 };
+medications: String = String { data0: 9876543210987654u128, data1: 9876543210987654u128, data2: 0u128, data3: 0u128, data4: 0u128, data5: 0u128, data6: 0u128, data7: 0u128 };
+test_results: String = String { data0: 5555555555555555u128, data1: 5555555555555555u128, data2: 0u128, data3: 0u128, data4: 0u128, data5: 0u128, data6: 0u128, data7: 0u128 };
+
+[view_entry]
+user_address: address = aleo1l67dx7esh6w4ywrcylku0na546pf55g50mdq5pt2xm75j48jkqgszxedzk;
+requester_address: address = aleo1l67dx7esh6w4ywrcylku0na546pf55g50mdq5pt2xm75j48jkqgszxedzk;
