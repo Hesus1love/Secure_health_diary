@@ -2,7 +2,7 @@
 
 # Notepad Smart Contract on Aleo
 [![Follow me on Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tjXg11epgcOqcMg)
-[Discord:iariksks]
+[#Ds - iariksks]
 
 **Description:**  
 The Secure Health Diary is a blockchain-based contract that allows users to maintain records related to their health, medications, and medical test results without fearing data leaks. Users have full control over their health data, ensuring privacy and trustworthiness.
